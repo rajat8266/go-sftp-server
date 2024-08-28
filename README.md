@@ -27,3 +27,6 @@ This project implements an SFTP server that uses Google Cloud Storage (GCS) as t
 ```./go-sftp-server --config-path path_to_config.json```
 Generate a new config using `config/config.md`.
 
+## Acknowledgments
+This project was developed with inspiration and code from the following repositories:
+[gcs-sftp-server](https://github.com/affordablemobiles/gcs-sftp-server)
