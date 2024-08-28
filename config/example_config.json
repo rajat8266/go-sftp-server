@@ -1,0 +1,24 @@
+{
+  "SftpAccounts": [
+     {
+      "Username": "test1",
+      "Password": "12345",
+      "BucketName":"bucket_name"
+    },
+    {
+      "Username": "test2",
+      "Password": "12345",
+      "BucketName":"bucket_name"
+    },
+    {
+      "Username": "test3",
+      "Password": "12345",
+      "BucketName":"bucket_name"
+    }
+  ],	
+  "Address": "127.0.0.1",
+  "Port" : "2024",
+  "KeyPathSSH": "**required**",
+  "SftpAuthorizedKeysFile": "",
+  "CredentialsFileGCS": "**required**"
+}
