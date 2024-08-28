@@ -43,14 +43,14 @@ Path to the file containing authorized SSH public keys for users who are allowed
 - **SftpAccounts**:
 List of SFTP accounts, where each account contains the following fields:
 
-- **Username**:
-The username for the SFTP account.
+  - **Username**:
+  The username for the SFTP account.
 
-- **Password**:
-The password for the SFTP account. This is used for password-based authentication.
+  - **Password**:
+  The password for the SFTP account. This is used for password-based authentication.
 
-- **BucketName**:
-The name of the Google Cloud Storage bucket that the user will be granted access to.
+  - **BucketName**:
+  The name of the Google Cloud Storage bucket that the user will be granted access to.
 
 
 
